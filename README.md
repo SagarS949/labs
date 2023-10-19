@@ -1,10 +1,8 @@
 # stories
-
 eoq:
 dy1.py
 dy2.py
 trans.py
-sm.py
 
 finance:
 cap1.py
@@ -16,3 +14,6 @@ mvp.py
 queue:
 mm1.py
 mm2.py
+
+arma:
+arma.py
