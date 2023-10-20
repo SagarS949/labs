@@ -3,6 +3,7 @@ eoq:
 dy1.py
 dy2.py
 trans.py
+efs.py
 
 finance:
 cap1.py
